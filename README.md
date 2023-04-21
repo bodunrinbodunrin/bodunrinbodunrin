@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/vector-afro-woman-with-glasses-working-computer-with-cup-coffee-with-leaves-decoration_786159-3.jpg?w=2000)]
+![MasterHead](https://img.freepik.com/premium-vector/vector-afro-woman-with-glasses-working-computer-with-cup-coffee-with-leaves-decoration_786159-3.jpg?w=2000)
 <h1 align="center">Hi 👋, I'm Bodunrin</h1>
 <h3 align="center">I’m an ambitious frontend web developer building my web development skills and portfolio. All my
     coding projects were built from scratch. As I continue to plan, design and code, I wish to grow professional and
