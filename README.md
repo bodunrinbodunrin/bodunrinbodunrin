@@ -1,5 +1,5 @@
-![MasterHead](https://img.freepik.com/premium-vector/vector-afro-woman-with-glasses-working-computer-with-cup-coffee-with-leaves-decoration_786159-3.jpg?w=2000)
-<h1 align="center">Hi 👋, I'm Bodunrin</h1>
+![MasterHead](https://media.istockphoto.com/id/1225005851/vector/european-african-girl-working-on-a-laptop.jpg?s=612x612&w=0&k=20&c=suAZCy7rZZs1LlTRsyhX9BC3uTxXmnlrF8Qg-JnbaDA=)
+<h1 align="center">Hey 👋, I'm Bodunrin</h1>
 <h3 align="center">I’m an ambitious frontend web developer building my web development skills and portfolio. All my
     coding projects were built from scratch. As I continue to plan, design and code, I wish to grow professional and
     participate in the knowledge of other creatives.</h3>
